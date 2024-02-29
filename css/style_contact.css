@@ -1,0 +1,31 @@
+
+.contact-home {
+    margin-top: 12rem;
+}
+
+.contact-home .contact-us h2 {
+    color: white;
+    font-size: 4.3rem;
+}
+
+.contact-home .contact-us p {
+    color: #aaa;
+    font-size: 1.9rem;
+}
+
+.home {
+    background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url(../images/contact-us-banner.jpg) no-repeat;
+    margin: 0 auto;
+    margin-top: 5.5rem;
+    width: 90%;
+    border-radius: 1rem;
+    background-size: cover;
+    background-position: center;
+    justify-content: flex-end
+}
+
+.wrapper {
+    display: flex;
+    left: 58%;
+    padding: 6%;
+}

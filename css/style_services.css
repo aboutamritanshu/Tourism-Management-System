@@ -1,0 +1,37 @@
+.services-home{
+    margin-top: 12rem;
+}
+
+.container{
+    width: 80%;
+}
+
+.services-home .my-5 h2{
+    color: white;
+    font-size: 4.3rem;
+}
+.services-home .my-5 p{
+    color: #aaa;
+    font-size: 1.6rem;
+    margin: auto;
+    max-width: 80%;
+}
+
+.container .row .col-lg-4 .rounded{
+    border-top: 0.5rem solid #3CCF4E
+}
+
+.hr {
+    margin: auto;
+    width: 80%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid white;
+}
+
+.pop:hover {
+    border-top-color: white!important;
+    transform: scale(1.03);
+    transition: all 0.3s;
+}

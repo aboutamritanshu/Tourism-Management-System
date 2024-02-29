@@ -1,0 +1,59 @@
+.h-font{
+    color: white;
+    font-size: 4.3rem;
+}
+
+.about-home {
+    margin-top: 12rem;
+}
+
+.about-home .about-us {
+    margin-bottom: 7rem;
+}
+
+.about-home .about-us h2 {
+    color: white;
+    font-size: 4.3rem;
+}
+
+.about-home .about-us p {
+    color: #aaa;
+    font-size: 1.6rem;
+}
+
+.about-home .container .row .col-lg-12 h3 {
+    color: white;
+    font-size: 2.5rem;
+}
+
+.about-home .container .row .col-lg-12 p {
+    color: #aaa;
+    font-size: 1.9rem;
+    text-transform: none;
+}
+
+.about-home .container .row .col-lg-3 .box {
+    background-color: #222;
+    color: white;
+    border-radius: 1rem;
+    padding: 2rem;
+    background: #222;
+    border-top: 0.2rem solid #3CCF4E;
+}
+
+.about-home .container .swiper .swiper-wrapper .swiper-slide {
+    background-color: #111 !important;
+}
+
+.about-home .container .swiper .swiper-wrapper .swiper-slide h5{
+    color: white;
+    font-size: 3rem;
+}
+
+.about-home .container .swiper .swiper-pagination-bullet{
+    background: #3CCF4E;
+}
+
+#container {
+    max-width: 80%;
+}

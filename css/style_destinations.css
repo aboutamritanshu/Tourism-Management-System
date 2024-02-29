@@ -1,0 +1,127 @@
+.container-fluid {
+    margin-top: 10rem !important;
+    margin: auto;
+    width: 90%;
+    color: white;
+}
+
+.destinations-home {
+    margin-top: 12rem;
+}
+
+.destinations-home .destinations-us h2 {
+    color: white;
+    font-size: 4.3rem;
+}
+
+.hr {
+    margin: auto;
+    width: 80%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid white;
+}
+
+.main-row {
+    margin: auto;
+    max-width: 80%;
+}
+
+.card {
+    background-color: #222;
+}
+
+.card-body h5 {
+    color: #fff;
+}
+
+.card-body p {
+    color: #aaa;
+}
+
+.col-md-2 {
+    margin: auto;
+}
+
+.row {
+    align-items: center;
+}
+
+.image {
+    height: 25rem;
+    overflow: hidden;
+}
+
+.image img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.carousel-item {
+    height: 45rem;
+    overflow: hidden;
+}
+
+.carousel-item img {
+    height: 100%;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
+
+.reviews {
+    background-color: #222;
+    padding: 2rem;
+    border-radius: 2rem;
+}
+
+.reviews .mb-5 .d-flex img {
+    border-radius: 50%;
+}
+
+#search_input {
+    background-color: #222;
+    margin-top: 1rem;
+    padding: 1rem 3rem;
+    font-size: 1.7rem;
+    color: #3CCF4E;
+    border: 0.2rem solid #3CCF4E;
+    border-radius: 5rem;
+}
+
+#book-form {
+    margin-top: 0px;
+    width: 80%;
+}
+
+#book-form form {
+    justify-content: center;
+}
+
+.book-form form .btn {
+    flex: none;
+}
+
+#book-form form .inputBox {
+    flex: none;
+}
+
+.book-form form .inputBox span {
+    font-size: 1.4rem;
+    color: #aaa;
+}
+
+.book-form form .inputBox input {
+    width: 100%;
+    padding: 1.2rem 1.4rem;
+    border-radius: 5rem;
+    border: 0.2rem solid #3CCF4E;
+    font-size: 1.6rem;
+    color: #aaa;
+    text-transform: none;
+    background: none;
+    margin-top: 1rem;
+}
